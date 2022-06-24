@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px; }
+
+body {
+    background-color: rgba(0, 0, 0, 0.849);
+}
+
+.header__header {
+    background-color: rgba(121, 103, 226, 0.514);
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.849);
+}
+
+
+
+.main__primera {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 2rem;
+}
+
+.main__segunda {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 3rem;
+}
+
+.fotodemi {
+    width: 35rem;
+}
+
+.imagencamara {
+    width: 27rem;
+}
+
+.main__primerTexto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 25rem;
+    color: azure;
+}
+
+.main__segundoTexto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 25rem;
+    color: azure;
+}
+
+
