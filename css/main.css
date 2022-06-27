@@ -10,3 +10,16 @@ body {
 
 .navbar {
   background-color: rgba(162, 158, 185, 0.753); }
+
+.main__bloque {
+  display: flex;
+  justify-content: center; }
+
+.main__intro {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(17, 18, 92, 0.74);
+  width: 85%; }
+
+.main__introUno {
+  width: 380px; }
